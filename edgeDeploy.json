@@ -23,7 +23,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_DC4s_v3",
+      "defaultValue": "Standard_M208ms_v2",
       "metadata": {
         "description": "VM size"
       }
