@@ -23,7 +23,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_D96ads_v5",
+      "defaultValue": "Standard_DC4s_v3",
       "metadata": {
         "description": "VM size"
       }
